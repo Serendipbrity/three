@@ -21,7 +21,11 @@ My first try using three.js. I used the sphere and added "earth texture".
 
 ## Screenshot
 
-https://github.com/Serendipbrity/three/assets/96275616/8fc9722e-040b-4e13-8d3b-cf9cb2bd118f
+
+
+https://github.com/Serendipbrity/three/assets/96275616/bcadbfca-4214-4bd5-95e6-3eaab36d5d49
+
+
 
 
 ## Installation
