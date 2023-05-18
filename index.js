@@ -34,8 +34,8 @@ camera.position.z = 50;
 function animate() {
     requestAnimationFrame(animate);
     // speed of rotation
-    sphere.rotation.x += 0.01;
-    sphere.rotation.y += 0.01;
+    sphere.rotation.x += 0.003;
+    sphere.rotation.y += 0.003;
     renderer.render(scene, camera);
 }
 
